@@ -1,2 +1,1 @@
-# SSB606_HW_1
-Practice 1
+https://galibio1.github.io/SSB606_HW_1/index.html
